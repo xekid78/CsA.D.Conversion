@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mako1\\OneDrive\\ドキュメント\\色々練習\\勉強資料\\C#\\Ccalconv\\Ccalconv\\Ccalconv.csproj",
+      "projectUniqueName": "C:\\Users\\mako1\\OneDrive\\ドキュメント\\色々練習\\git作業場所\\Ccalconv\\Ccalconv.csproj",
       "projectName": "Ccalconv",
-      "projectPath": "C:\\Users\\mako1\\OneDrive\\ドキュメント\\色々練習\\勉強資料\\C#\\Ccalconv\\Ccalconv\\Ccalconv.csproj",
+      "projectPath": "C:\\Users\\mako1\\OneDrive\\ドキュメント\\色々練習\\git作業場所\\Ccalconv\\Ccalconv.csproj",
       "packagesPath": "C:\\Users\\mako1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mako1\\OneDrive\\ドキュメント\\色々練習\\勉強資料\\C#\\Ccalconv\\Ccalconv\\obj\\",
+      "outputPath": "C:\\Users\\mako1\\OneDrive\\ドキュメント\\色々練習\\git作業場所\\Ccalconv\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
